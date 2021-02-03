@@ -1,0 +1,8 @@
+<template>
+  <div>
+    <header>
+      <h1>错误页面</h1>
+    </header>
+    <Nuxt />
+  </div>
+</template>
