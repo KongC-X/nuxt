@@ -7,6 +7,7 @@
       <a href="/article">文章</a>
       <a href="/list">列表</a>
       <a href="/vx">试验vuex</a>
+      <a href="/todos">todo</a>
     </header>
     <Nuxt />
   </div>
